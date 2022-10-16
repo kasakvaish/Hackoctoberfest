@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main() {
    int sea, c, n=6;
    int arr[] = { 12, 35, 69, 74, 165, 54};
